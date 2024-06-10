@@ -1,0 +1,8 @@
+logs/
+out/
+eval/
+eval_backup/
+test/
+*.pt
+*.png
+*.wav
